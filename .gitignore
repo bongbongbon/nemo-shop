@@ -1,0 +1,3 @@
+# figma sketch : folder, file 제외
+/Figma
+*.fig
